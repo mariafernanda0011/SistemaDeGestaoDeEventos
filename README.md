@@ -1,4 +1,4 @@
-# Projeto Final – Sistema de Gerenciamento de Eventos Acadêmicos 🎓
+# Projeto Final – Sistema de Gerenciamento de Eventos Acadêmicos 👩‍💻🎓
 
 ### 📝 Contexto 
 A instituição está desenvolvendo um sistema para gerenciar a organização de eventos acadêmicos, como semanas de cursos, congressos e feiras científicas.

@@ -26,7 +26,7 @@ O sistema deve permitir o controle completo de **eventos**, **atividades**, **pa
 - `Principal.java` → Menu principal do sistema.
 
 ### 🛠️ Tecnologias Utilizadas
-☕ **Java 17** — Linguagem principal da aplicação
+☕ **Java** — Linguagem principal da aplicação
  
 🗃️ **SQLite** — Banco de dados leve e embutido
  
